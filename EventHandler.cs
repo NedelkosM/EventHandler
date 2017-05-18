@@ -1,8 +1,8 @@
-/// <summary>
-/// Generalised event handler class using delegates
-/// Author: Miltiadis Nedelkos, nedelkosm at gmail com
-/// Date: May 2017
-/// </summary>
+/*
+ Generalised event handler class using delegates
+ Author: Miltiadis Nedelkos, nedelkosm at gmail com
+ Date: May 2017
+*/
 using System;
 using System.Collections.Generic;
 
