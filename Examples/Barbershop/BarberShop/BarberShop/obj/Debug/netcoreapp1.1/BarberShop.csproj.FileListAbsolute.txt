@@ -1,0 +1,9 @@
+C:\Users\Miltos\Desktop\Projects\C#\EventHandler\Examples\Barbershop\BarberShop\BarberShop\bin\Debug\netcoreapp1.1\BarberShop.deps.json
+C:\Users\Miltos\Desktop\Projects\C#\EventHandler\Examples\Barbershop\BarberShop\BarberShop\bin\Debug\netcoreapp1.1\BarberShop.runtimeconfig.json
+C:\Users\Miltos\Desktop\Projects\C#\EventHandler\Examples\Barbershop\BarberShop\BarberShop\bin\Debug\netcoreapp1.1\BarberShop.runtimeconfig.dev.json
+C:\Users\Miltos\Desktop\Projects\C#\EventHandler\Examples\Barbershop\BarberShop\BarberShop\obj\Debug\netcoreapp1.1\BarberShop.csprojResolveAssemblyReference.cache
+C:\Users\Miltos\Desktop\Projects\C#\EventHandler\Examples\Barbershop\BarberShop\BarberShop\obj\Debug\netcoreapp1.1\BarberShop.AssemblyInfo.cs
+C:\Users\Miltos\Desktop\Projects\C#\EventHandler\Examples\Barbershop\BarberShop\BarberShop\bin\Debug\netcoreapp1.1\BarberShop.dll
+C:\Users\Miltos\Desktop\Projects\C#\EventHandler\Examples\Barbershop\BarberShop\BarberShop\bin\Debug\netcoreapp1.1\BarberShop.pdb
+C:\Users\Miltos\Desktop\Projects\C#\EventHandler\Examples\Barbershop\BarberShop\BarberShop\obj\Debug\netcoreapp1.1\BarberShop.dll
+C:\Users\Miltos\Desktop\Projects\C#\EventHandler\Examples\Barbershop\BarberShop\BarberShop\obj\Debug\netcoreapp1.1\BarberShop.pdb
